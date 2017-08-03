@@ -1,0 +1,20 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "Reactを勉強するぞ！\r ==================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chige12/react-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chige12/react-practice/issues"
+  },
+  "homepage": "https://github.com/Chige12/react-practice#readme"
+}
