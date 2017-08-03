@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Chige12/react-practice/issues"
   },
-  "homepage": "https://github.com/Chige12/react-practice#readme"
+  "homepage": "https://github.com/Chige12/react-practice#readme",
+  "dependencies": {
+    "babel-core": "^6.25.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
 }
